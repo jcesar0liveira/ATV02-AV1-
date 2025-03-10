@@ -9,7 +9,7 @@ public class Livro {
         this.titulo = titulo;
         this.autor = autor;
         this.anoDePublicacao = anoDePublicacao;
-        this.disponivel = true; // Por padrão, o livro está disponível
+        this.disponivel = true; 
     }
 
 
